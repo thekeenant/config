@@ -1,0 +1,13 @@
+{
+	"auto_complete": false,
+	"color_scheme": "Packages/User/Monokai (SL) (Flake8Lint).tmTheme",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"SublimeLinter-ghc",
+		"Vintage"
+	],
+	"tab_size": 2,
+	"theme": "Boxy Tomorrow.sublime-theme",
+	"translate_tabs_to_spaces": true
+}

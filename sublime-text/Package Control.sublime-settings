@@ -1,0 +1,33 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Agila Theme",
+		"Babel",
+		"Boxy Theme",
+		"ColdFusion Docs Launcher",
+		"Color Highlighter",
+		"Crystal",
+		"Darkula Color Scheme",
+		"Dart",
+		"Dockerfile Syntax Highlighting",
+		"Dracula Color Scheme",
+		"Emmet",
+		"Kotlin",
+		"LiveReload",
+		"Markdown Preview",
+		"Maven",
+		"npm",
+		"Package Control",
+		"Sass",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-javac",
+		"Terminal",
+		"Theme - Spacegray"
+	]
+}
